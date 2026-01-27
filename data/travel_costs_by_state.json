@@ -1,0 +1,331 @@
+[
+  {
+    "state": "NV",
+    "avgFare": 136,
+    "minFare": 132,
+    "maxFare": 160,
+    "stipendTier": 250
+  },
+  {
+    "state": "OR",
+    "avgFare": 179,
+    "minFare": 74,
+    "maxFare": 361,
+    "stipendTier": 250
+  },
+  {
+    "state": "AZ",
+    "avgFare": 179,
+    "minFare": 175,
+    "maxFare": 306,
+    "stipendTier": 250
+  },
+  {
+    "state": "UT",
+    "avgFare": 189,
+    "minFare": 83,
+    "maxFare": 324,
+    "stipendTier": 250
+  },
+  {
+    "state": "CO",
+    "avgFare": 192,
+    "minFare": 182,
+    "maxFare": 322,
+    "stipendTier": 250
+  },
+  {
+    "state": "ID",
+    "avgFare": 195,
+    "minFare": 185,
+    "maxFare": 357,
+    "stipendTier": 250
+  },
+  {
+    "state": "WA",
+    "avgFare": 198,
+    "minFare": 178,
+    "maxFare": 299,
+    "stipendTier": 250
+  },
+  {
+    "state": "NM",
+    "avgFare": 214,
+    "minFare": 212,
+    "maxFare": 273,
+    "stipendTier": 250
+  },
+  {
+    "state": "TX",
+    "avgFare": 227,
+    "minFare": 212,
+    "maxFare": 367,
+    "stipendTier": 250
+  },
+  {
+    "state": "IA",
+    "avgFare": 245,
+    "minFare": 238,
+    "maxFare": 260,
+    "stipendTier": 250
+  },
+  {
+    "state": "IL",
+    "avgFare": 253,
+    "minFare": 252,
+    "maxFare": 363,
+    "stipendTier": 500
+  },
+  {
+    "state": "OK",
+    "avgFare": 261,
+    "minFare": 240,
+    "maxFare": 342,
+    "stipendTier": 500
+  },
+  {
+    "state": "MT",
+    "avgFare": 262,
+    "minFare": 247,
+    "maxFare": 335,
+    "stipendTier": 500
+  },
+  {
+    "state": "KS",
+    "avgFare": 263,
+    "minFare": 257,
+    "maxFare": 352,
+    "stipendTier": 500
+  },
+  {
+    "state": "SD",
+    "avgFare": 265,
+    "minFare": 252,
+    "maxFare": 285,
+    "stipendTier": 500
+  },
+  {
+    "state": "NE",
+    "avgFare": 266,
+    "minFare": 233,
+    "maxFare": 301,
+    "stipendTier": 500
+  },
+  {
+    "state": "MN",
+    "avgFare": 266,
+    "minFare": 264,
+    "maxFare": 405,
+    "stipendTier": 500
+  },
+  {
+    "state": "MO",
+    "avgFare": 267,
+    "minFare": 236,
+    "maxFare": 407,
+    "stipendTier": 500
+  },
+  {
+    "state": "LA",
+    "avgFare": 270,
+    "minFare": 260,
+    "maxFare": 360,
+    "stipendTier": 500
+  },
+  {
+    "state": "OH",
+    "avgFare": 286,
+    "minFare": 260,
+    "maxFare": 337,
+    "stipendTier": 500
+  },
+  {
+    "state": "WY",
+    "avgFare": 286,
+    "minFare": 286,
+    "maxFare": 291,
+    "stipendTier": 500
+  },
+  {
+    "state": "AR",
+    "avgFare": 293,
+    "minFare": 282,
+    "maxFare": 387,
+    "stipendTier": 500
+  },
+  {
+    "state": "IN",
+    "avgFare": 297,
+    "minFare": 287,
+    "maxFare": 389,
+    "stipendTier": 500
+  },
+  {
+    "state": "DC",
+    "avgFare": 301,
+    "minFare": 301,
+    "maxFare": 301,
+    "stipendTier": 500
+  },
+  {
+    "state": "KY",
+    "avgFare": 302,
+    "minFare": 281,
+    "maxFare": 389,
+    "stipendTier": 500
+  },
+  {
+    "state": "WI",
+    "avgFare": 303,
+    "minFare": 282,
+    "maxFare": 380,
+    "stipendTier": 500
+  },
+  {
+    "state": "TN",
+    "avgFare": 304,
+    "minFare": 268,
+    "maxFare": 413,
+    "stipendTier": 500
+  },
+  {
+    "state": "PA",
+    "avgFare": 307,
+    "minFare": 265,
+    "maxFare": 459,
+    "stipendTier": 500
+  },
+  {
+    "state": "FL",
+    "avgFare": 312,
+    "minFare": 274,
+    "maxFare": 461,
+    "stipendTier": 500
+  },
+  {
+    "state": "CT",
+    "avgFare": 314,
+    "minFare": 314,
+    "maxFare": 314,
+    "stipendTier": 500
+  },
+  {
+    "state": "NC",
+    "avgFare": 315,
+    "minFare": 306,
+    "maxFare": 418,
+    "stipendTier": 500
+  },
+  {
+    "state": "MI",
+    "avgFare": 320,
+    "minFare": 288,
+    "maxFare": 444,
+    "stipendTier": 500
+  },
+  {
+    "state": "SC",
+    "avgFare": 321,
+    "minFare": 309,
+    "maxFare": 412,
+    "stipendTier": 500
+  },
+  {
+    "state": "GA",
+    "avgFare": 323,
+    "minFare": 317,
+    "maxFare": 494,
+    "stipendTier": 500
+  },
+  {
+    "state": "AL",
+    "avgFare": 332,
+    "minFare": 316,
+    "maxFare": 361,
+    "stipendTier": 500
+  },
+  {
+    "state": "VA",
+    "avgFare": 333,
+    "minFare": 305,
+    "maxFare": 411,
+    "stipendTier": 500
+  },
+  {
+    "state": "ND",
+    "avgFare": 335,
+    "minFare": 305,
+    "maxFare": 467,
+    "stipendTier": 500
+  },
+  {
+    "state": "MS",
+    "avgFare": 347,
+    "minFare": 333,
+    "maxFare": 352,
+    "stipendTier": 500
+  },
+  {
+    "state": "HI",
+    "avgFare": 350,
+    "minFare": 250,
+    "maxFare": 500,
+    "stipendTier": 500
+  },
+  {
+    "state": "MA",
+    "avgFare": 355,
+    "minFare": 354,
+    "maxFare": 739,
+    "stipendTier": 500
+  },
+  {
+    "state": "RI",
+    "avgFare": 360,
+    "minFare": 360,
+    "maxFare": 360,
+    "stipendTier": 500
+  },
+  {
+    "state": "ME",
+    "avgFare": 371,
+    "minFare": 364,
+    "maxFare": 408,
+    "stipendTier": 500
+  },
+  {
+    "state": "WV",
+    "avgFare": 376,
+    "minFare": 376,
+    "maxFare": 376,
+    "stipendTier": 500
+  },
+  {
+    "state": "NH",
+    "avgFare": 380,
+    "minFare": 380,
+    "maxFare": 380,
+    "stipendTier": 500
+  },
+  {
+    "state": "VT",
+    "avgFare": 389,
+    "minFare": 389,
+    "maxFare": 389,
+    "stipendTier": 500
+  },
+  {
+    "state": "NY",
+    "avgFare": 422,
+    "minFare": 246,
+    "maxFare": 474,
+    "stipendTier": 750
+  },
+  {
+    "state": "AK",
+    "avgFare": 450,
+    "minFare": 350,
+    "maxFare": 600,
+    "stipendTier": 750
+  }
+]
